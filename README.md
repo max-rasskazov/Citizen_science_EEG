@@ -16,10 +16,15 @@
 Задание выполняются на язке питон
 
 Мануал для того, чтобы начать:
+
   pip install mne
+  
   import mne
+  
   raw = mne.io.read_raw_brainvision("/data/resting_state/zavrin_open_eyes_eeg_15021500.vhdr")
+  
   raw.get_data().shape
+  
 Дальше смотрим:
   http://martinos.org/mne/stable/auto_tutorials/plot_visualize_raw.html
   
