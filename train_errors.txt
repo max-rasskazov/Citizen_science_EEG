@@ -1,0 +1,138 @@
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ value cannot be converted to type float without overflow: inf
+29 
+ must be str, not int
+29 
+ must be str, not int
+29 
+ must be str, not int
+2 
+ __init__() got an unexpected keyword argument 'le'
+6 
+ __init__() got an unexpected keyword argument 'le'
+6 
+ name 'Eeg_dense_LSTMLoopAE_sim' is not defined
+29 
+ name 'Eeg_dense_LSTMLoopAE_sim' is not defined
+6 
+ input and target have different number of elements: input[32 x 1000 x 180] has 5760000 elements, while target[32 x 1000 x 58] has 1856000 elements at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THCUNN/generic/MSECriterion.cu:15
+29 
+ input and target have different number of elements: input[32 x 1000 x 180] has 5760000 elements, while target[32 x 1000 x 58] has 1856000 elements at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THCUNN/generic/MSECriterion.cu:15
+6 
+ name 'la1' is not defined
+29 
+ name 'la1' is not defined
+6 
+ size mismatch at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/generic/THCTensorMathBlas.cu:243
+29 
+ size mismatch at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/generic/THCTensorMathBlas.cu:243
+6 
+ 'Eeg_dense_LSTMLoopAE_par' object has no attribute 'rnn_dec'
+29 
+ 'Eeg_dense_LSTMLoopAE_par' object has no attribute 'rnn_dec'
+2 
+ name 'Eeg_dense_lin_AE' is not defined
+6 
+ name 'Eeg_dense_lin_AE' is not defined
+29 
+ name 'Eeg_dense_lin_AE' is not defined
+58 
+ name 'Eeg_dense_lin_AE' is not defined
+1 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+1 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+2 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+6 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+29 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+58 
+ 'Eeg_LSTMLoop_linshortcut_AE' object has no attribute 'dense_dec3'
+Eeg_CNN_AE_12s_(9, 1)c1k_8c1l_58l1_0d 
+ tuple index out of range
+Eeg_CNN_AE_12s_(9, 1)c1k_8c1l_58l1_0.5d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(9, 1)c1k_8c1l_58l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(9, 1)c1k_16c1l_116l1_0.5d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(9, 1)c1k_16c1l_116l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(9, 1)c1k_32c1l_232l1_0.5d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(9, 1)c1k_32c1l_232l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_32s_(17, 1)c1k_32c1l_232l1_0.1d_b 
+ Unknown error -1
+Eeg_CNN_AE_8s_(5, 1)c1k_8c1l_58l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_8c1l_58l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_8c1l_58l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_16c1l_116l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_16c1l_116l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_16c1l_116l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_32c1l_232l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_32c1l_232l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_8s_(5, 1)c1k_32c1l_232l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_8c1l_58l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_8c1l_58l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_8c1l_58l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_16c1l_116l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_16c1l_116l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_16c1l_116l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_32c1l_232l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_32c1l_232l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_12s_(5, 1)c1k_32c1l_232l1_0.1d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_8c1l_58l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_8c1l_58l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_32c1l_232l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_32c1l_232l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_18s_(3, 1)c1k_32c1l_232l1_0d 
+ cuda runtime error (2) : out of memory at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/generic/THCStorage.cu:58
+Eeg_CNN_AE_18s_(3, 1)c1k_32c1l_232l1_0d_b 
+ cuda runtime error (2) : out of memory at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/THCTensorCopy.cu:204
+Eeg_CNN_AE_6s_(3, 1)c1k_8c1l_58l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_8c1l_58l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_32c1l_232l1_0d 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_6s_(3, 1)c1k_32c1l_232l1_0d_b 
+ CUDNN_STATUS_NOT_SUPPORTED. This error may appear if you passed in a non-contiguous input.
+Eeg_CNN_AE_18s_(3, 1)c1k_32c1l_232l1_0d 
+ cuda runtime error (2) : out of memory at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/generic/THCStorage.cu:58
+Eeg_CNN_AE_18s_(3, 1)c1k_32c1l_232l1_0d_b 
+ cuda runtime error (2) : out of memory at /opt/conda/conda-bld/pytorch_1512957107421/work/torch/lib/THC/THCTensorCopy.cu:204
